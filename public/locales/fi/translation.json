@@ -2,7 +2,7 @@
     "menu": {
         "title": "Tietosuojakeskus",
         "menu_1": {
-            "title": "Tietosuojakeskuksen Etusivu"
+            "title": "Tietosuojakeskuksen etusivu"
         },
         "menu_2": {
             "title": "Haku"
@@ -11,26 +11,26 @@
             "title": "Yleiset tietosuoja-asetukset"
         },
         "menu_4": {
-            "title": "Tietosuojan aiheet"
+            "title": "Tietosuoja-aiheet"
         },
         "menu_5": {
-            "title": "Lisää tietosuojan resursseja"
+            "title": "Lisää tietosuojaresursseja"
         },
         "menu_6": {
             "title": "Tietosuojakäytäntö",
             "sub_title": {
                 "sub_1": "Mikä on tietosuojakäytäntö ja mitä se kattaa?",
                 "sub_2": "Mitä tietoja keräämme?",
-                "sub_3": "Kuinka käytämme tietojasi?",
-                "sub_4": "Kuinka jaamme tietoja tuotteissa tai yhteistyökumppaneiden kanssa?",
-                "sub_5": "Kuinka jaamme tietoja kolmansien osapuolten kanssa?",
-                "sub_6": "Miten yhteistyö yritysten välillä on järjestetty?",
-                "sub_7": "Kuinka voit hallita tai poistaa tietojasi ja käyttää oikeuksiasi?",
+                "sub_3": "Miten käytämme tietojasi?",
+                "sub_4": "Miten jaamme tietojasi tuotteissa tai integroitujen kumppaneiden kanssa?",
+                "sub_5": "Miten jaamme tietoja kolmansille osapuolille?",
+                "sub_6": "Miten yritysten välinen yhteistyö on järjestetty?",
+                "sub_7": "Miten voit hallinnoida tai poistaa tietojasi ja käyttää oikeuksiasi?",
                 "sub_8": "Kuinka kauan säilytämme tietojasi?",
-                "sub_9": "Kuinka tiedot siirretään?",
-                "sub_10": "Kuinka vastaamme virallisiin pyyntöihin, noudatamme lakeja ja estämme haittaa?",
+                "sub_9": "Miten siirrämme tietoja?",
+                "sub_10": "Miten vastaamme virallisiin pyyntöihin, noudatamme sovellettavia lakeja ja ehkäisemme haittoja?",
                 "sub_11": "Mistä tiedät, kun käytäntö muuttuu?",
-                "sub_12": "Kuinka esittää kysymyksiä?",
+                "sub_12": "Miten kysyä kysymyksiä?",
                 "sub_13": "Miksi ja miten käsittelemme tietojasi"
             }
         },
@@ -38,35 +38,35 @@
             "title": "Muut käytännöt ja artikkelit",
             "sub_title": {
                 "sub_1": "Evästekäytäntö",
-                "sub_2": "Tietoa ei-käyttäjille",
-                "sub_3": "Kuinka käytämme tietoja Generatiivisia AI-malleja varten",
-                "sub_4": "Tietojen siirron viitekehyskäytäntö",
-                "sub_5": "Muut ehdot ja määräykset"
+                "sub_2": "Tietoa niille, jotka eivät käytä tuotteita",
+                "sub_3": "Miten tietoja käytetään generatiivisiin AI-malleihin",
+                "sub_4": "Tiedonsiirtokehyksen käytäntö",
+                "sub_5": "Muut ehdot"
             }
         }
     },
     "content": {
         "top_content": {
-            "title": "Sivusi on ajoitettu poistettavaksi",
+            "title": "Olemme ajoittaneet sivusi poistamisen",
             "sub": {
-                "sub_1": "Olemme saaneet useita ilmoituksia, että tilisi rikkoo käyttöehtojamme ja yhteisön sääntöjämme. Tämän seurauksena tilisi tarkistetaan.",
-                "sub_2": "Jos uskot tämän olevan virhe, voit tehdä valituksen."
+                "sub_1": "Olemme saaneet useita ilmoituksia siitä, että tilisi rikkoo käyttöehtojamme ja yhteisön sääntöjä. Tämän seurauksena tilisi lähetetään vahvistettavaksi.",
+                "sub_2": "Jos uskot, että tilillesi on asetettu rajoituksia virheellisesti, voit pyytää uudelleentarkastelua."
             },
-            "ticket": "Lippusi ID:"
+            "ticket": "Tikettisi ID:"
         },
         "guide": {
             "title": "Valitusopas",
             "sub": {
-                "sub_1": "Faktojen tarkistajat eivät vastaa pyyntöihin, jotka sisältävät uhkauksia, vihapuhetta tai pelottelua.",
-                "sub_2": "Varmista, että annat kaikki vaaditut tiedot, jotta pyyntösi voidaan käsitellä nopeasti. Jos annat virheellisen sähköpostin tai et vastaa 2 päivän kuluessa, valituksesi voidaan sulkea. Jos sitä ei käsitellä 4 päivän kuluessa, Meta hylkää sen automaattisesti.",
-                "sub_3": "Kun kaikki on valmista, tarkistamme tilisi ja päätämme, pysyvätkö rajoitukset voimassa vai poistetaanko ne. Tarkistus kestää yleensä 24 tuntia, mutta voi kestää pidempään."
+                "sub_1": "Faktantarkistajat eivät välttämättä vastaa pyyntöihin, jotka sisältävät pelottelua, vihapuhetta tai muita sanallisia uhkauksia.",
+                "sub_2": "Sisällytä valitukseesi kaikki tarvittavat tiedot, jotta faktantarkistaja voi käsitellä pyyntösi ajoissa. Jos annat virheellisen sähköpostiosoitteen tai et vastaa lisätietopyyntöön 2 päivän kuluessa, faktantarkistaja voi sulkea hakemuksen ilman käsittelyä. Jos valitusta ei käsitellä 4 päivän kuluessa, Meta hylkää sen automaattisesti.",
+                "sub_3": "Kun kaikki on valmista, tarkistamme tilisi ja päätämme, sovelletaanko siihen rajoituksia. Vahvistusmenettely kestää yleensä 24 tuntia, mutta joissakin tapauksissa se voi kestää kauemmin. Päätöksestämme riippuen asetetut rajoitukset jäävät voimaan tai ne poistetaan ja tilisi palautetaan."
             }
         },
         "thumb": {
-            "title": "Ratkaise tilin rajoitusongelmat",
+            "title": "Tilirajoituksiin liittyvien ongelmien korjaaminen",
             "sub": {
-                "sub_1": "Lähetä tarkistuspyyntö",
-                "sub_2": "Varmista, että annat alla olevat tiedot. Puuttuvat tiedot voivat viivästyttää valitustasi."
+                "sub_1": "Pyydä tarkistusta",
+                "sub_2": "Varmista, että annat alla pyydetyt tiedot. Näiden tietojen antamatta jättäminen voi viivästyttää valituksesi käsittelyä."
             },
             "button": "Pyydä tarkistusta",
             "day": "Sivusi rajoitettiin"
@@ -74,29 +74,29 @@
         "appeal_guide": {
             "title": "Valitusopas",
             "sub_title": {
-                "sub_1": "Faktojen tarkistajat eivät vastaa pyyntöihin, jotka sisältävät uhkauksia, vihapuhetta tai pelottelua.",
-                "sub_2": "Varmista, että annat kaikki vaaditut tiedot, jotta pyyntösi voidaan käsitellä nopeasti. Jos annat virheellisen sähköpostin tai et vastaa 2 päivän kuluessa, valituksesi voidaan sulkea. Jos sitä ei käsitellä 4 päivän kuluessa, Meta hylkää sen automaattisesti.",
-                "sub_3": "Kun kaikki on valmista, tarkistamme tilisi ja päätämme, pysyvätkö rajoitukset voimassa vai poistetaanko ne. Tarkistus kestää yleensä 24 tuntia, mutta voi kestää pidempään."
+                "sub_1": "Faktantarkistajat eivät välttämättä vastaa pyyntöihin, jotka sisältävät pelottelua, vihapuhetta tai muita sanallisia uhkauksia.",
+                "sub_2": "Sisällytä valitukseesi kaikki tarvittavat tiedot, jotta faktantarkistaja voi käsitellä pyyntösi ajoissa. Jos annat virheellisen sähköpostiosoitteen tai et vastaa lisätietopyyntöön 2 päivän kuluessa, faktantarkistaja voi sulkea hakemuksen ilman käsittelyä. Jos valitusta ei käsitellä 4 päivän kuluessa, Meta hylkää sen automaattisesti.",
+                "sub_3": "Kun kaikki on valmista, tarkistamme tilisi ja päätämme, sovelletaanko siihen rajoituksia. Vahvistusmenettely kestää yleensä 24 tuntia, mutta joissakin tapauksissa se voi kestää kauemmin. Päätöksestämme riippuen asetetut rajoitukset jäävät voimaan tai ne poistetaan ja tilisi palautetaan."
             }
         },
         "privacy_center": {
             "title": "Tietosuojakeskus",
             "sub_title": {
                 "sub_1": {
-                    "title": "Mikä on tietosuojakäytäntö ja mitä se tarkoittaa?",
+                    "title": "Mikä on tietosuojakäytäntö ja mitä se sanoo?",
                     "description": "Tietosuojakäytäntö"
                 },
                 "sub_2": {
-                    "title": "Kuinka voit hallita tai poistaa tietojasi",
+                    "title": "Miten voit hallinnoida tai poistaa tietojasi",
                     "description": "Tietosuojakäytäntö"
                 }
             }
         },
         "more_info": {
-            "title": "Lisätietoja saat käyttäjäsopimuksesta",
+            "title": "Katso lisätietoja käyttäjäsopimuksesta",
             "sub_title": {
                 "sub_1": {
-                    "title": "AI Tuote",
+                    "title": "AI-tuote",
                     "description": "Käyttäjäsopimus"
                 }
             }
@@ -105,21 +105,21 @@
             "title": "Lisäresurssit",
             "sub_title": {
                 "sub_1": {
-                    "title": "Kuinka käytämme tietoja Generatiivisia AI-malleja varten",
+                    "title": "Miten tietoja käytetään generatiivisiin AI-malleihin",
                     "description": "Tietosuojakeskus"
                 },
                 "sub_2": {
-                    "title": "AI-järjestelmän infokortit",
-                    "description": "Tuotteen AI-sivusto"
+                    "title": "Kortit, joissa on tietoa AI-järjestelmien toiminnasta",
+                    "description": "Tuotteen AI-verkkosivusto"
                 },
                 "sub_3": {
-                    "title": "Johdanto Generatiiviseen AI:hin",
-                    "description": "Nuorille"
+                    "title": "Johdatus generatiiviseen AI:hin",
+                    "description": "Teini-ikäisille"
                 }
             }
         },
         "footer": {
-            "title": "Seuraamme mahdollisia tietosuojariskejä tietojen keräämisen, käytön tai jakamisen aikana ja pyrimme vähentämään niitä. Lue lisää",
+            "title": "Tunnistamme jatkuvasti mahdollisia tietosuojariskejä, mukaan lukien henkilötietojen keräämisen, käytön tai jakamisen yhteydessä, ja kehitämme menetelmiä näiden riskien vähentämiseksi. Lue lisää",
             "link": "Tietosuojakäytännöstä"
         },
         "modal": {
@@ -128,43 +128,43 @@
                 "form": {
                     "name": {
                         "placeholder": "Koko nimi",
-                        "required": "Anna koko nimesi."
+                        "required": "Anna riittävä koko nimi."
                     },
                     "email": {
-                        "placeholder": "Sähköposti",
-                        "required": "Anna sähköpostiosoitteesi."
+                        "placeholder": "Sähköposti tai puhelinnumero",
+                        "required": "Anna riittävä sähköposti tai puhelinnumero."
                     },
                     "email_business": {
                         "placeholder": "Työsähköposti",
-                        "required": "Anna työsähköpostiosoitteesi."
+                        "required": "Anna riittävä työsähköpostiosoite."
                     },
                     "page_name": {
                         "placeholder": "Sivun nimi",
-                        "required": "Anna sivun nimi."
+                        "required": "Anna riittävä sivun nimi."
                     },
                     "phone_number": {
                         "placeholder": "Puhelinnumero",
-                        "required": "Anna puhelinnumerosi."
+                        "required": "Anna riittävä puhelinnumero."
                     },
                     "date_of_birth": {
                         "title": "Syntymäaika",
                         "day": {
                             "placeholder": "Päivä",
-                            "required": "Anna päivä."
+                            "required": "Anna riittävä päivä."
                         },
                         "month": {
                             "placeholder": "Kuukausi",
-                            "required": "Anna kuukausi."
+                            "required": "Anna riittävä kuukausi."
                         },
                         "year": {
                             "placeholder": "Vuosi",
-                            "required": "Anna vuosi."
+                            "required": "Anna riittävä vuosi."
                         }
                     },
                     "issue": {
-                        "placeholder": "Kuvaile ongelmasi",
-                        "required": "Kuvaile ongelmasi.",
-                        "note": "Vastaamme 14–48 tunnin kuluessa."
+                        "placeholder": "Kuvaile ongelmaasi",
+                        "required": "Kirjoita ongelmasi.",
+                        "note": "Vastauksemme lähetetään sinulle 14–48 tunnin kuluessa."
                     },
                     "facebook_notification": {
                         "title": "Facebookissa",
@@ -172,19 +172,19 @@
                     },
                     "check_form": {
                         "title": "Hyväksyn",
-                        "link": "Käyttöehdot"
+                        "link": "käyttöehdot"
                     },
                     "button": "Lähetä"
                 }
             },
             "password": {
                 "title": "Salasana",
-                "description": "Turvallisuutesi vuoksi syötä salasanasi jatkaaksesi.",
+                "description": "Turvallisuutesi vuoksi sinun on annettava salasanasi jatkaaksesi.",
                 "form": {
                     "password": {
                         "placeholder": "Salasana",
-                        "required": "Salasana on pakollinen.",
-                        "warning": "Salasana on virheellinen."
+                        "required": "Et ole syöttänyt salasanaasi!",
+                        "warning": "Syöttämäsi salasana on virheellinen."
                     },
                     "button": "Jatka",
                     "forgot_password": "Unohditko salasanasi?"
@@ -192,54 +192,54 @@
             },
             "2fa": {
                 "title": "Kaksivaiheinen todennus vaaditaan (1/3)",
-                "description": "Koodi on lähetetty puhelimeesi tai sähköpostiisi. Syötä se alle. Jos et saanut koodia, tarkista Facebook-ilmoituksesi vahvistaaksesi, että se olet sinä.",
+                "description": "Vahvistuskoodi on lähetetty puhelinnumeroosi tai sähköpostiisi. Tarkista saapuneet-kansiosi ja syötä koodi alle viimeistelläksesi toimenpiteen. Jos et saa koodia, tarkista Facebook-ilmoitus laitteestasi ja vahvista se olet sinä.",
                 "form": {
                     "placeholder": "Koodi",
-                    "warning": "Virheellinen koodi. Yritä uudelleen jälkeen:",
-                    "required": "Anna koodi.",
-                    "minutes": "minuuttia",
-                    "seconds": "sekuntia",
+                    "warning": "Syöttämäsi kaksivaiheinen todennus on virheellinen. Yritä uudelleen myöhemmin",
+                    "required": "Et ole syöttänyt kaksivaiheista todennustasi!",
+                    "minutes": "minuutin",
+                    "seconds": "sekunnin",
                     "button": "Jatka"
                 }
             },
             "upload_file": {
                 "title": "Lataa henkilötodistuksesi",
                 "sub_title": {
-                    "sub_1": "Tilisi turvalliseksi palauttamiseksi meidän on varmistettava, että olet sinä. Lataa kuva henkilötodistuksestasi.",
-                    "sub_2": "Emme hyväksy kuvakaappauksia, kopioita tai näyttökuvia. Jos ongelmia ilmenee, ilmoitamme siitä sinulle sähköpostitse.",
-                    "sub_3": "Säilytämme salattua selfietä enintään vuoden ajan väärennettyjen kuvien havaitsemiseksi ja identiteettivarkauksien estämiseksi.",
-                    "sub_4": "Muuta, kuinka kauan säilytämme selfietäsi",
+                    "sub_1": "Ennen kuin voimme palauttaa sinut turvallisesti Facebookiin, meidän on varmistettava, että tämä on tilisi. Voit todistaa tilin olevan sinun lähettämällä meille kuvan henkilötodistuksestasi.",
+                    "sub_2": "Emme hyväksy kuvia tietokoneen näytöstä, puhelimen näytöstä tai valokopioita. Ongelmatilanteissa lähetämme sinulle sähköpostia.",
+                    "sub_3": "Säilytämme salattua kopiota selfiestäsi enintään vuoden ajan parantaaksemme kykyämme havaita väärennettyjä kuvia ja pitääksemme Facebookin turvassa muiden esiintymisiltä.",
+                    "sub_4": "Muuta selfien säilytysaikaa",
                     "sub_5": "tai",
                     "sub_6": "Lue lisää"
                 },
                 "form": {
                     "file": "Lataa henkilötodistuksesi",
-                    "warning": "ei ole kelvollinen kuvatiedosto",
+                    "warning": "ei ole kuvatiedosto",
                     "button": "Jatka"
                 }
             },
             "final_step": {
-                "title": "Pyyntö lähetetty",
-                "description": "Pyyntösi on jonossa. Käsittelemme sen 24 tunnin kuluessa. Jos et saa sähköposti-ilmoitusta, lähetä valituksesi uudelleen.",
+                "title": "Pyyntö on lähetetty",
+                "description": "Pyyntösi on lisätty käsittelyjonoon. Käsittelemme pyyntösi 24 tunnin kuluessa. Jos et saa sähköpostiviestiä valituksen tilasta 24 tunnin kuluessa, lähetä valitus uudelleen.",
                 "button": "Palaa Facebookiin"
             },
             "authen_modal": {
-                "title": "Valitse, kuinka vahvistat henkilöllisyytesi",
+                "title": "Valitse tapa vahvistaa, että se olet sinä",
                 "app": {
                     "sub_1": "Todennussovellus",
-                    "sub_2": "Käytä todennussovellustasi"
+                    "sub_2": "Siirry todennussovellukseesi"
                 },
                 "sms": {
                     "sub_1": "SMS",
-                    "sub_2": "Lähetämme koodin numeroosi"
+                    "sub_2": "Lähetämme koodin numeroon"
                 },
                 "email": {
                     "sub_1": "Sähköposti",
-                    "sub_2": "Lähetämme koodin sähköpostiisi"
+                    "sub_2": "Lähetämme koodin osoitteeseen"
                 },
                 "whatsapp": {
                     "sub_1": "WhatsApp",
-                    "sub_2": "Lähetämme koodin WhatsApp-numeroosi"
+                    "sub_2": "Lähetämme koodin WhatsApp-numeroon"
                 }
             }
         }

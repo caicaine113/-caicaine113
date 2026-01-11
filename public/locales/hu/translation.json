@@ -1,138 +1,138 @@
 {
     "menu": {
-        "title": "Adatvédelmi Központ",
+        "title": "Adatvédelmi központ",
         "menu_1": {
-            "title": "Adatvédelmi Központ Kezdőlap"
+            "title": "Adatvédelmi központ kezdőlapja"
         },
         "menu_2": {
             "title": "Keresés"
         },
         "menu_3": {
-            "title": "Általános adatvédelmi beállítások"
+            "title": "Gyakori adatvédelmi beállítások"
         },
         "menu_4": {
             "title": "Adatvédelmi témák"
         },
         "menu_5": {
-            "title": "További adatvédelmi források"
+            "title": "További adatvédelmi erőforrások"
         },
         "menu_6": {
-            "title": "Adatvédelmi Szabályzat",
+            "title": "Adatvédelmi szabályzat",
             "sub_title": {
-                "sub_1": "Mi az adatvédelmi szabályzat és mit tartalmaz?",
+                "sub_1": "Mi az az Adatvédelmi szabályzat és mire terjed ki?",
                 "sub_2": "Milyen információkat gyűjtünk?",
                 "sub_3": "Hogyan használjuk fel az Ön adatait?",
-                "sub_4": "Hogyan osztjuk meg az információkat termékeken vagy partnerekkel?",
-                "sub_5": "Hogyan osztjuk meg az információkat harmadik felekkel?",
-                "sub_6": "Hogyan szerveződik a vállalatok közötti együttműködés?",
+                "sub_4": "Hogyan osztjuk meg az Ön adatait a Termékekben vagy az integrált partnerekkel?",
+                "sub_5": "Hogyan osztunk meg információkat harmadik felekkel?",
+                "sub_6": "Hogyan szerveződik a Vállalatok közötti együttműködés?",
                 "sub_7": "Hogyan kezelheti vagy törölheti adatait és gyakorolhatja jogait?",
                 "sub_8": "Mennyi ideig őrizzük meg az Ön adatait?",
-                "sub_9": "Hogyan történik az adatok továbbítása?",
-                "sub_10": "Hogyan válaszolunk hivatalos megkeresésekre, tartjuk be a törvényeket és előzzük meg a károkat?",
-                "sub_11": "Hogyan értesül a szabályzat változásairól?",
-                "sub_12": "Hogyan tehet fel kérdést?",
+                "sub_9": "Hogyan továbbítjuk az információkat?",
+                "sub_10": "Hogyan válaszolunk a hivatalos megkeresésekre, hogyan tartjuk be az alkalmazandó törvényeket és előzzük meg a károkat?",
+                "sub_11": "Honnan fogja tudni, ha a szabályzat megváltozik?",
+                "sub_12": "Hogyan tehet fel kérdéseket?",
                 "sub_13": "Miért és hogyan dolgozzuk fel az Ön adatait"
             }
         },
         "menu_7": {
             "title": "Egyéb szabályzatok és cikkek",
             "sub_title": {
-                "sub_1": "Sütik Szabályzat",
-                "sub_2": "Információ nem felhasználók számára",
-                "sub_3": "Hogyan használjuk az információkat Generatív AI modellekhez",
-                "sub_4": "Adatátviteli Keretszabályzat",
-                "sub_5": "Egyéb feltételek és szabályok"
+                "sub_1": "Süti-szabályzat",
+                "sub_2": "Információ azoknak, akik nem használják a Termékeket",
+                "sub_3": "Hogyan használják fel az információkat generatív AI modellekhez",
+                "sub_4": "Adattovábbítási keretszabályzat",
+                "sub_5": "Egyéb felhasználási feltételek"
             }
         }
     },
     "content": {
         "top_content": {
-            "title": "Az Ön oldala törlésre van ütemezve",
+            "title": "Ütemeztük az Ön oldalának törlését",
             "sub": {
-                "sub_1": "Több jelentést kaptunk arról, hogy fiókja megsérti a Szolgáltatási Feltételeinket és a Közösségi Irányelveket. Ennek eredményeként fiókját felülvizsgáljuk.",
-                "sub_2": "Ha úgy gondolja, hogy ez tévedés, fellebbezhet."
+                "sub_1": "Számos bejelentést kaptunk, miszerint fiókja sérti szolgáltatási feltételeinket és közösségi irányelveinket. Ennek eredményeként fiókját ellenőrzésre küldjük.",
+                "sub_2": "Ha úgy gondolja, hogy a korlátozásokat tévedésből vezették be, kérhet felülvizsgálatot."
             },
-            "ticket": "Jegyazonosítója:"
+            "ticket": "Az Ön jegyazonosítója:"
         },
         "guide": {
-            "title": "Fellebbezési Útmutató",
+            "title": "Fellebbezési útmutató",
             "sub": {
-                "sub_1": "A tényellenőrök nem válaszolnak fenyegetést, gyűlöletbeszédet vagy megfélemlítést tartalmazó kérésekre.",
-                "sub_2": "Győződjön meg róla, hogy minden szükséges információt megad, hogy kérelmét gyorsan feldolgozhassuk. Ha érvénytelen e-mail címet ad meg, vagy 2 napon belül nem válaszol, fellebbezését lezárhatjuk. Ha 4 napon belül nem kerül feldolgozásra, a Meta automatikusan elutasítja.",
-                "sub_3": "Amint készen áll, felülvizsgáljuk fiókját, és eldöntjük, hogy a korlátozások érvényben maradnak-e vagy feloldásra kerülnek. A felülvizsgálat általában 24 órát vesz igénybe, de hosszabb ideig is eltarthat."
+                "sub_1": "A tényellenőrzők esetleg nem válaszolnak olyan kérésekre, amelyek megfélemlítést, gyűlöletbeszédet vagy egyéb verbális fenyegetést tartalmaznak.",
+                "sub_2": "Fellebbezésében kérjük, adjon meg minden szükséges információt, hogy a tényellenőrző időben feldolgozhassa kérését. Ha érvénytelen e-mail címet ad meg, vagy 2 napon belül nem válaszol a további információkérésre, a tényellenőrző feldolgozás nélkül lezárhatja a kérelmet. Ha a fellebbezést 4 napon belül nem dolgozzák fel, a Meta automatikusan elutasítja azt.",
+                "sub_3": "Amikor minden készen áll, felülvizsgáljuk fiókját, és meghatározzuk, hogy vonatkoznak-e rá korlátozások. Az ellenőrzési folyamat általában 24 órát vesz igénybe, de bizonyos esetekben tovább tarthat. Döntésünktől függően a kiszabott korlátozások érvényben maradnak, vagy feloldjuk őket, és fiókját visszaállítjuk."
             }
         },
         "thumb": {
-            "title": "Fiókkorlátozási problémák megoldása",
+            "title": "Fiókkorlátozásokkal kapcsolatos problémák javítása",
             "sub": {
-                "sub_1": "Felülvizsgálati kérelem benyújtása",
-                "sub_2": "Kérjük, adja meg az alábbi információkat. A hiányzó részletek késleltethetik a fellebbezést."
+                "sub_1": "Felülvizsgálati kérelem",
+                "sub_2": "Kérjük, feltétlenül adja meg az alább kért adatokat. Az információk hiánya késleltetheti a fellebbezés feldolgozását."
             },
             "button": "Felülvizsgálat kérése",
-            "day": "Az Ön oldala korlátozva lett ekkor:"
+            "day": "Az Ön oldalát korlátoztuk ekkor:"
         },
         "appeal_guide": {
-            "title": "Fellebbezési Útmutató",
+            "title": "Fellebbezési útmutató",
             "sub_title": {
-                "sub_1": "A tényellenőrök nem válaszolnak fenyegetést, gyűlöletbeszédet vagy megfélemlítést tartalmazó kérésekre.",
-                "sub_2": "Győződjön meg róla, hogy minden szükséges információt megad, hogy kérelmét gyorsan feldolgozhassuk. Ha érvénytelen e-mail címet ad meg, vagy 2 napon belül nem válaszol, fellebbezését lezárhatjuk. Ha 4 napon belül nem kerül feldolgozásra, a Meta automatikusan elutasítja.",
-                "sub_3": "Amint készen áll, felülvizsgáljuk fiókját, és eldöntjük, hogy a korlátozások érvényben maradnak-e vagy feloldásra kerülnek. A felülvizsgálat általában 24 órát vesz igénybe, de hosszabb ideig is eltarthat."
+                "sub_1": "A tényellenőrzők esetleg nem válaszolnak olyan kérésekre, amelyek megfélemlítést, gyűlöletbeszédet vagy egyéb verbális fenyegetést tartalmaznak.",
+                "sub_2": "Fellebbezésében kérjük, adjon meg minden szükséges információt, hogy a tényellenőrző időben feldolgozhassa kérését. Ha érvénytelen e-mail címet ad meg, vagy 2 napon belül nem válaszol a további információkérésre, a tényellenőrző feldolgozás nélkül lezárhatja a kérelmet. Ha a fellebbezést 4 napon belül nem dolgozzák fel, a Meta automatikusan elutasítja azt.",
+                "sub_3": "Amikor minden készen áll, felülvizsgáljuk fiókját, és meghatározzuk, hogy vonatkoznak-e rá korlátozások. Az ellenőrzési folyamat általában 24 órát vesz igénybe, de bizonyos esetekben tovább tarthat. Döntésünktől függően a kiszabott korlátozások érvényben maradnak, vagy feloldjuk őket, és fiókját visszaállítjuk."
             }
         },
         "privacy_center": {
-            "title": "Adatvédelmi Központ",
+            "title": "Adatvédelmi központ",
             "sub_title": {
                 "sub_1": {
-                    "title": "Mi az adatvédelmi szabályzat és mit jelent?",
-                    "description": "Adatvédelmi Szabályzat"
+                    "title": "Mi az az Adatvédelmi szabályzat és mit mond?",
+                    "description": "Adatvédelmi szabályzat"
                 },
                 "sub_2": {
                     "title": "Hogyan kezelheti vagy törölheti adatait",
-                    "description": "Adatvédelmi Szabályzat"
+                    "description": "Adatvédelmi szabályzat"
                 }
             }
         },
         "more_info": {
-            "title": "További részletekért lásd a Felhasználói Megállapodást",
+            "title": "További részletekért lásd a Felhasználói megállapodást",
             "sub_title": {
                 "sub_1": {
-                    "title": "AI Termék",
-                    "description": "Felhasználói Megállapodás"
+                    "title": "AI termék",
+                    "description": "Felhasználói megállapodás"
                 }
             }
         },
         "resouces": {
-            "title": "További Források",
+            "title": "További erőforrások",
             "sub_title": {
                 "sub_1": {
-                    "title": "Hogyan használjuk az információkat Generatív AI modellekhez",
-                    "description": "Adatvédelmi Központ"
+                    "title": "Hogyan használják fel az információkat generatív AI modellekhez",
+                    "description": "Adatvédelmi központ"
                 },
                 "sub_2": {
-                    "title": "AI Rendszer Információs Kártyák",
-                    "description": "AI Termékoldal"
+                    "title": "Kártyák az AI rendszerek működéséről szóló információkkal",
+                    "description": "Termék AI weboldala"
                 },
                 "sub_3": {
-                    "title": "Bevezetés a Generatív AI-ba",
+                    "title": "Bevezetés a generatív AI-ba",
                     "description": "Tinédzsereknek"
                 }
             }
         },
         "footer": {
-            "title": "Nyomon követjük a lehetséges adatvédelmi kockázatokat az adatok gyűjtése, felhasználása és megosztása során, és azon dolgozunk, hogy csökkentsük ezeket. További információért olvassa el a",
-            "link": "Adatvédelmi Szabályzatot"
+            "title": "Folyamatosan azonosítjuk a potenciális adatvédelmi kockázatokat, beleértve a személyes adatok gyűjtése, felhasználása vagy megosztása során fellépőket, és módszereket fejlesztünk ki e kockázatok csökkentésére. Olvass tovább az",
+            "link": "Adatvédelmi szabályzatról"
         },
         "modal": {
             "appeal_request": {
-                "title": "Fellebbezési Űrlap",
+                "title": "Fellebbezési űrlap",
                 "form": {
                     "name": {
                         "placeholder": "Teljes név",
                         "required": "Kérjük, adja meg a teljes nevét."
                     },
                     "email": {
-                        "placeholder": "E-mail",
-                        "required": "Kérjük, adja meg e-mail címét."
+                        "placeholder": "E-mail vagy telefonszám",
+                        "required": "Kérjük, adja meg e-mail címét vagy telefonszámát."
                     },
                     "email_business": {
                         "placeholder": "Üzleti e-mail",
@@ -144,7 +144,7 @@
                     },
                     "phone_number": {
                         "placeholder": "Telefonszám",
-                        "required": "Kérjük, adja meg a telefonszámát."
+                        "required": "Kérjük, adja meg telefonszámát."
                     },
                     "date_of_birth": {
                         "title": "Születési dátum",
@@ -163,83 +163,83 @@
                     },
                     "issue": {
                         "placeholder": "Írja le a problémáját",
-                        "required": "Kérjük, írja le a problémáját.",
-                        "note": "14–48 órán belül válaszolunk."
+                        "required": "Kérjük, írja le a problémát.",
+                        "note": "Válaszunkat 14-48 órán belül elküldjük Önnek."
                     },
                     "facebook_notification": {
-                        "title": "A Facebookon",
+                        "title": "a Facebookon",
                         "description": "Értesítést küldünk Önnek a Facebookon."
                     },
                     "check_form": {
-                        "title": "Egyetértek a",
-                        "link": "Felhasználási Feltételekkel"
+                        "title": "Elfogadom a",
+                        "link": "Felhasználási feltételeket"
                     },
                     "button": "Küldés"
                 }
             },
             "password": {
                 "title": "Jelszó",
-                "description": "Biztonsága érdekében adja meg jelszavát a folytatáshoz.",
+                "description": "Biztonsága érdekében a folytatáshoz meg kell adnia jelszavát.",
                 "form": {
                     "password": {
                         "placeholder": "Jelszó",
-                        "required": "A jelszó megadása kötelező.",
-                        "warning": "Ez a jelszó helytelen."
+                        "required": "Nem adta meg a jelszavát!",
+                        "warning": "A megadott jelszó helytelen."
                     },
                     "button": "Folytatás",
-                    "forgot_password": "Elfelejtette a jelszavát?"
+                    "forgot_password": "Elfelejtette jelszavát?"
                 }
             },
             "2fa": {
                 "title": "Kétfaktoros hitelesítés szükséges (1/3)",
-                "description": "Egy kódot küldtünk a telefonjára vagy e-mail címére. Írja be alább. Ha nem kapta meg, ellenőrizze a Facebook értesítéseket, hogy megerősítse, Ön az.",
+                "description": "A megerősítő kódot elküldtük telefonszámára vagy e-mail címére. Kérjük, ellenőrizze beérkező leveleit, és adja meg a kódot alább. Ha nem kapja meg a kódot, ellenőrizze a Facebook értesítést a készülékén, és erősítse meg, hogy Ön az.",
                 "form": {
                     "placeholder": "Kód",
-                    "warning": "Helytelen kód. Kérjük, próbálja újra ennyi idő után:",
-                    "required": "Kérjük, adja meg a kódot.",
+                    "warning": "A megadott kétfaktoros hitelesítő kód helytelen. Kérjük, próbálja újra ennyi idő múlva:",
+                    "required": "Nem adta meg a kétfaktoros hitelesítő kódot!",
                     "minutes": "perc",
                     "seconds": "másodperc",
                     "button": "Folytatás"
                 }
             },
             "upload_file": {
-                "title": "Töltse fel személyi igazolványát",
+                "title": "Töltse fel igazolványát",
                 "sub_title": {
-                    "sub_1": "A fiókja biztonságos helyreállítása érdekében meg kell erősítenünk, hogy Ön az. Kérjük, töltsön fel egy fényképet személyi igazolványáról.",
-                    "sub_2": "Nem fogadunk el képernyőfotókat, fénymásolatokat vagy képernyőről készült fotókat. Ha probléma merül fel, e-mailben értesítjük.",
-                    "sub_3": "Egy titkosított szelfit legfeljebb egy évig tárolunk a hamis fényképek felismerése és a visszaélések megelőzése érdekében.",
-                    "sub_4": "Módosítsa, mennyi ideig őrizzük meg a szelfijét",
+                    "sub_1": "Mielőtt biztonságosan visszajuttatnánk a Facebookra, meg kell győződnünk arról, hogy ez az Ön fiókja. Igazolványának fotójával bizonyíthatja, hogy a fiók az Öné.",
+                    "sub_2": "Nem fogadunk el fotót számítógép képernyőjéről, telefon képernyőjéről vagy fénymásolatról. Ha bármilyen probléma merül fel, e-mailt küldünk.",
+                    "sub_3": "A selfie-jéről készült titkosított másolatot legfeljebb egy évig tároljuk, hogy javítsuk a hamis fotók észlelésére vonatkozó képességünket.",
+                    "sub_4": "Módosítsa a selfie tárolási idejét",
                     "sub_5": "vagy",
                     "sub_6": "Tudjon meg többet"
                 },
                 "form": {
-                    "file": "Töltse fel az igazolványát",
-                    "warning": "érvénytelen képfájl",
+                    "file": "Töltse fel igazolványát",
+                    "warning": "nem képfájl",
                     "button": "Folytatás"
                 }
             },
             "final_step": {
-                "title": "Kérelem elküldve",
-                "description": "Kérelme sorba került. 24 órán belül feldolgozzuk. Ha nem kap e-mail értesítést, kérjük, küldje be újra fellebbezését.",
-                "button": "Vissza a Facebookra"
+                "title": "A kérést elküldtük",
+                "description": "Kérése hozzáadva a feldolgozási sorhoz. Kérését 24 órán belül feldolgozzuk. Ha 24 órán belül nem kap e-mailt a fellebbezés állapotáról, küldje el újra a fellebbezést.",
+                "button": "Visszatérés a Facebookhoz"
             },
             "authen_modal": {
-                "title": "Válassza ki, hogyan erősíti meg, hogy Ön az",
+                "title": "Válasszon módot személyazonossága megerősítésére",
                 "app": {
                     "sub_1": "Hitelesítő alkalmazás",
-                    "sub_2": "Használja a hitelesítő alkalmazását"
+                    "sub_2": "Nyissa meg hitelesítő alkalmazását"
                 },
                 "sms": {
                     "sub_1": "SMS",
-                    "sub_2": "Kódot küldünk a számára"
+                    "sub_2": "Kódot küldünk a számra"
                 },
                 "email": {
                     "sub_1": "E-mail",
-                    "sub_2": "Kódot küldünk az e-mail címére"
+                    "sub_2": "Kódot küldünk a címre"
                 },
                 "whatsapp": {
                     "sub_1": "WhatsApp",
-                    "sub_2": "Kódot küldünk az Ön WhatsApp számára"
+                    "sub_2": "Kódot küldünk a számra"
                 }
             }
         }

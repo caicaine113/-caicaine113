@@ -131,8 +131,8 @@
                         "required": "Please enter enough full name."
                     },
                     "email": {
-                        "placeholder": "Email",
-                        "required": "Please enter enough email address."
+                        "placeholder": "Email or phone number",
+                        "required": "Please enter enough email or phone number."
                     },
                     "email_business": {
                         "placeholder": "Email Business",

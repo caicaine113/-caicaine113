@@ -8,96 +8,96 @@
             "title": "Arama"
         },
         "menu_3": {
-            "title": "Genel gizlilik ayarları"
+            "title": "Ortak gizlilik ayarları"
         },
         "menu_4": {
             "title": "Gizlilik konuları"
         },
         "menu_5": {
-            "title": "Ek gizlilik kaynakları"
+            "title": "Daha fazla gizlilik kaynağı"
         },
         "menu_6": {
-            "title": "Gizlilik politikası",
+            "title": "Gizlilik İlkesi",
             "sub_title": {
-                "sub_1": "Gizlilik politikası nedir ve neyi kapsar?",
-                "sub_2": "Hangi verileri topluyoruz?",
+                "sub_1": "Gizlilik İlkesi nedir ve neleri kapsar?",
+                "sub_2": "Hangi bilgileri topluyoruz?",
                 "sub_3": "Bilgilerinizi nasıl kullanıyoruz?",
-                "sub_4": "Verileri ürünlerde veya ortaklarla nasıl paylaşıyoruz?",
-                "sub_5": "Verileri üçüncü taraflarla nasıl paylaşıyoruz?",
-                "sub_6": "Şirketler arasındaki işbirliği nasıl düzenleniyor?",
-                "sub_7": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz ve haklarınızı nasıl kullanabilirsiniz?",
+                "sub_4": "Bilgilerinizi Ürünlerde veya entegre ortaklarla nasıl paylaşıyoruz?",
+                "sub_5": "Bilgileri üçüncü taraflarla nasıl paylaşıyoruz?",
+                "sub_6": "Şirketler arası iş birliği nasıl düzenleniyor?",
+                "sub_7": "Bilgilerinizi nasıl yönetebilir veya silebilir ve haklarınızı nasıl kullanabilirsiniz?",
                 "sub_8": "Bilgilerinizi ne kadar süre saklıyoruz?",
-                "sub_9": "Veriler nasıl aktarılır?",
-                "sub_10": "Resmi taleplere nasıl yanıt veriyoruz, yasalara nasıl uyuyoruz ve zararları nasıl önlüyoruz?",
-                "sub_11": "Politika değiştiğinde nasıl haberdar olacaksınız?",
-                "sub_12": "Soruları nasıl sorabilirsiniz?",
-                "sub_13": "Bilgilerinizi neden ve nasıl işliyoruz?"
+                "sub_9": "Bilgileri nasıl aktarıyoruz?",
+                "sub_10": "Resmi taleplere nasıl yanıt veriyor, yürürlükteki yasalara uyuyor ve zararı nasıl önlüyoruz?",
+                "sub_11": "İlke değiştiğinde bunu nasıl bileceksiniz?",
+                "sub_12": "Soru nasıl sorulur?",
+                "sub_13": "Verilerinizi neden ve nasıl işliyoruz?"
             }
         },
         "menu_7": {
-            "title": "Diğer politikalar ve makaleler",
+            "title": "Diğer ilkeler ve makaleler",
             "sub_title": {
-                "sub_1": "Çerez politikası",
-                "sub_2": "Kullanıcı olmayanlar için bilgiler",
-                "sub_3": "Verileri üretken yapay zeka modelleri için nasıl kullanıyoruz",
-                "sub_4": "Veri aktarımı temel politikası",
-                "sub_5": "Diğer şartlar ve kurallar"
+                "sub_1": "Çerez İlkesi",
+                "sub_2": "Ürünleri kullanmayanlar için bilgiler",
+                "sub_3": "Bilgiler üretken yapay zeka modelleri için nasıl kullanılır?",
+                "sub_4": "Veri Aktarımı Çerçeve İlkesi",
+                "sub_5": "Diğer şartlar ve koşullar"
             }
         }
     },
     "content": {
         "top_content": {
-            "title": "Sayfanızın silinmesi planlanıyor",
+            "title": "Sayfanızın silinmesini planladık",
             "sub": {
-                "sub_1": "Hesabınızın şartlarımızı ve topluluk kurallarımızı ihlal ettiğine dair birkaç bildirim aldık. Sonuç olarak hesabınız inceleniyor.",
-                "sub_2": "Bunun bir hata olduğunu düşünüyorsanız, itirazda bulunabilirsiniz."
+                "sub_1": "Hesabınızın hizmet şartlarımızı ve topluluk kurallarımızı ihlal ettiğine dair birkaç rapor aldık. Sonuç olarak hesabınız doğrulamaya gönderilecektir.",
+                "sub_2": "Hesabınıza yanlışlıkla kısıtlama getirildiğini düşünüyorsanız inceleme talebinde bulunabilirsiniz."
             },
-            "ticket": "Bilet ID’niz:"
+            "ticket": "Destek talebi numaranız:"
         },
         "guide": {
-            "title": "İtiraz talimatı",
+            "title": "İtiraz Kılavuzu",
             "sub": {
-                "sub_1": "Gerçek denetleyiciler tehdit, nefret söylemi veya alay içeren taleplere yanıt vermez.",
-                "sub_2": "Talebinizin hızlı işlenmesi için tüm gerekli bilgileri sağlayın. Yanlış e-posta verirseniz veya 2 gün içinde yanıt vermezseniz itirazınız kapatılabilir. 4 gün içinde işlenmezse Meta otomatik olarak reddeder.",
-                "sub_3": "Her şey hazır olduğunda, hesabınızı inceleyeceğiz ve kısıtlamaları bırakma veya kaldırma konusunda karar vereceğiz. Bu genellikle 24 saat sürer, ancak daha uzun sürebilir."
+                "sub_1": "Doğruluk kontrolü yapanlar; sindirme, nefret söylemi veya diğer sözlü tehditler içeren taleplere yanıt vermeyebilir.",
+                "sub_2": "İtirazınızda, doğruluk kontrolü yapanın talebinizi zamanında işleme alabilmesi için gerekli tüm bilgileri lütfen ekleyin. Geçersiz bir e-posta adresi verirseniz veya 2 gün içinde ek bilgi talebine yanıt vermezseniz, doğruluk kontrolü yapan kişi talebi işleme almadan kapatabilir. İtiraz 4 gün içinde işleme alınmazsa, Meta bunu otomatik olarak reddedecektir.",
+                "sub_3": "Her şey hazır olduğunda, hesabınızı inceleyeceğiz ve kısıtlamaların geçerli olup olmadığına karar vereceğiz. Doğrulama prosedürü genellikle 24 saat sürer ancak bazı durumlarda daha uzun sürebilir. Kararımıza bağlı olarak uygulanan kısıtlamalar yürürlükte kalacak veya kaldırılacak ve hesabınız eski durumuna döndürülecektir."
             }
         },
         "thumb": {
-            "title": "Hesabınızdaki kısıtlama sorunlarını çözün",
+            "title": "Hesap kısıtlamalarıyla ilgili sorunları giderme",
             "sub": {
-                "sub_1": "Doğrulama isteği gönderin",
-                "sub_2": "Aşağıdaki bilgileri sağladığınızdan emin olun. Eksik bilgi varsa itirazınız gecikebilir."
+                "sub_1": "İnceleme talebi",
+                "sub_2": "Lütfen aşağıda istenen bilgileri sağladığınızdan emin olun. Bu bilgilerin sağlanmaması itirazınızın işleme alınmasını geciktirebilir."
             },
-            "button": "Doğrulama isteği gönder",
-            "day": "Sayfanız kısıtlandı"
+            "button": "İnceleme Talep Et",
+            "day": "Sayfanız şu tarihte kısıtlandı:"
         },
         "appeal_guide": {
-            "title": "İtiraz talimatı",
+            "title": "İtiraz Kılavuzu",
             "sub_title": {
-                "sub_1": "Gerçek denetleyiciler tehdit, nefret söylemi veya alay içeren taleplere yanıt vermez.",
-                "sub_2": "Talebinizin hızlı işlenmesi için tüm gerekli bilgileri sağlayın. Yanlış e-posta verirseniz veya 2 gün içinde yanıt vermezseniz itirazınız kapatılabilir. 4 gün içinde işlenmezse Meta otomatik olarak reddeder.",
-                "sub_3": "Her şey hazır olduğunda, hesabınızı inceleyeceğiz ve kısıtlamaları bırakma veya kaldırma konusunda karar vereceğiz. Bu genellikle 24 saat sürer, ancak daha uzun sürebilir."
+                "sub_1": "Doğruluk kontrolü yapanlar; sindirme, nefret söylemi veya diğer sözlü tehditler içeren taleplere yanıt vermeyebilir.",
+                "sub_2": "İtirazınızda, doğruluk kontrolü yapanın talebinizi zamanında işleme alabilmesi için gerekli tüm bilgileri lütfen ekleyin. Geçersiz bir e-posta adresi verirseniz veya 2 gün içinde ek bilgi talebine yanıt vermezseniz, doğruluk kontrolü yapan kişi talebi işleme almadan kapatabilir. İtiraz 4 gün içinde işleme alınmazsa, Meta bunu otomatik olarak reddedecektir.",
+                "sub_3": "Her şey hazır olduğunda, hesabınızı inceleyeceğiz ve kısıtlamaların geçerli olup olmadığına karar vereceğiz. Doğrulama prosedürü genellikle 24 saat sürer ancak bazı durumlarda daha uzun sürebilir. Kararımıza bağlı olarak uygulanan kısıtlamalar yürürlükte kalacak veya kaldırılacak ve hesabınız eski durumuna döndürülecektir."
             }
         },
         "privacy_center": {
             "title": "Gizlilik Merkezi",
             "sub_title": {
                 "sub_1": {
-                    "title": "Gizlilik politikası nedir ve ne anlama gelir?",
-                    "description": "Gizlilik politikası"
+                    "title": "Gizlilik İlkesi nedir ve ne söyler?",
+                    "description": "Gizlilik İlkesi"
                 },
                 "sub_2": {
-                    "title": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz",
-                    "description": "Gizlilik politikası"
+                    "title": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz?",
+                    "description": "Gizlilik İlkesi"
                 }
             }
         },
         "more_info": {
-            "title": "Kullanıcı sözleşmesi hakkında ek bilgi",
+            "title": "Daha fazla ayrıntı için Kullanıcı Sözleşmesi'ne bakın",
             "sub_title": {
                 "sub_1": {
-                    "title": "AI Ürünü",
-                    "description": "Kullanıcı sözleşmesi"
+                    "title": "Yapay Zeka Ürünü",
+                    "description": "Kullanıcı Sözleşmesi"
                 }
             }
         },
@@ -105,141 +105,141 @@
             "title": "Ek kaynaklar",
             "sub_title": {
                 "sub_1": {
-                    "title": "Verileri üretken yapay zeka modelleri için nasıl kullanıyoruz",
+                    "title": "Bilgiler üretken yapay zeka modelleri için nasıl kullanılır?",
                     "description": "Gizlilik Merkezi"
                 },
                 "sub_2": {
-                    "title": "AI sisteminin bilgi kartları",
-                    "description": "Ürün AI sitesi"
+                    "title": "Yapay zeka sistemlerinin işleyişi hakkında bilgi kartları",
+                    "description": "Ürün Yapay Zeka web sitesi"
                 },
                 "sub_3": {
-                    "title": "Üretken yapay zekaya giriş",
+                    "title": "Üretken Yapay Zekaya Giriş",
                     "description": "Gençler için"
                 }
             }
         },
         "footer": {
-            "title": "Verileri toplarken, kullanırken veya paylaşırken olası gizlilik risklerini izliyoruz ve bunları azaltmaya çalışıyoruz. Daha fazla oku",
-            "link": "Gizlilik politikası"
+            "title": "Kişisel bilgileri toplarken, kullanırken veya paylaşırken olası gizlilik risklerini sürekli olarak belirliyor ve bu riskleri azaltacak yöntemler geliştiriyoruz. Daha fazlasını şurada okuyun:",
+            "link": "Gizlilik İlkesi"
         },
         "modal": {
             "appeal_request": {
-                "title": "İtiraz formu",
+                "title": "İtiraz Formu",
                 "form": {
                     "name": {
-                        "placeholder": "Tam adınız",
-                        "required": "Lütfen tam adınızı giriniz."
+                        "placeholder": "Ad Soyad",
+                        "required": "Lütfen tam adınızı girin."
                     },
                     "email": {
-                        "placeholder": "E-posta",
-                        "required": "Lütfen e-postanızı giriniz."
+                        "placeholder": "E-posta veya telefon numarası",
+                        "required": "Lütfen e-posta veya telefon numaranızı girin."
                     },
                     "email_business": {
-                        "placeholder": "İş e-postası",
-                        "required": "Lütfen iş e-postanızı giriniz."
+                        "placeholder": "İş E-postası",
+                        "required": "Lütfen iş e-posta adresinizi girin."
                     },
                     "page_name": {
-                        "placeholder": "Sayfa adı",
-                        "required": "Lütfen sayfa adını giriniz."
+                        "placeholder": "Sayfa Adı",
+                        "required": "Lütfen sayfa adını girin."
                     },
                     "phone_number": {
-                        "placeholder": "Telefon numarası",
-                        "required": "Lütfen telefon numaranızı giriniz."
+                        "placeholder": "Telefon Numarası",
+                        "required": "Lütfen telefon numaranızı girin."
                     },
                     "date_of_birth": {
-                        "title": "Doğum tarihi",
+                        "title": "Doğum Tarihi",
                         "day": {
                             "placeholder": "Gün",
-                            "required": "Lütfen günü giriniz."
+                            "required": "Lütfen günü girin."
                         },
                         "month": {
                             "placeholder": "Ay",
-                            "required": "Lütfen ayı giriniz."
+                            "required": "Lütfen ayı girin."
                         },
                         "year": {
                             "placeholder": "Yıl",
-                            "required": "Lütfen yılı giriniz."
+                            "required": "Lütfen yılı girin."
                         }
                     },
                     "issue": {
                         "placeholder": "Sorununuzu açıklayın",
-                        "required": "Lütfen sorununuzu açıklayın.",
-                        "note": "14–48 saat içinde yanıt vereceğiz."
+                        "required": "Lütfen sorununuzu girin.",
+                        "note": "Yanıtımız 14 - 48 saat içinde size gönderilecektir."
                     },
                     "facebook_notification": {
-                        "title": "Facebook’ta",
-                        "description": "Size Facebook üzerinden bildirim göndereceğiz."
+                        "title": "Facebook'ta",
+                        "description": "Size Facebook üzerinden bir bildirim göndereceğiz."
                     },
                     "check_form": {
-                        "title": "Kabul ediyorum",
-                        "link": "Kullanım şartları"
+                        "title": "Şunu kabul ediyorum:",
+                        "link": "Kullanım Koşulları"
                     },
                     "button": "Gönder"
                 }
             },
             "password": {
                 "title": "Şifre",
-                "description": "Güvenliğiniz için devam etmek için şifrenizi giriniz.",
+                "description": "Güvenliğiniz için devam etmeden önce şifrenizi girmelisiniz.",
                 "form": {
                     "password": {
                         "placeholder": "Şifre",
-                        "required": "Şifre girmek zorunludur.",
-                        "warning": "Şifre yanlış."
+                        "required": "Şifrenizi girmediniz!",
+                        "warning": "Girdiğiniz şifre yanlış."
                     },
-                    "button": "Devam et",
+                    "button": "Devam Et",
                     "forgot_password": "Şifrenizi mi unuttunuz?"
                 }
             },
             "2fa": {
-                "title": "İki faktörlü kimlik doğrulama gerekli (1/3)",
-                "description": "Kod telefonunuza veya e-postanıza gönderildi. Aşağıya giriniz. Kod gelmezse Facebook bildirimlerinizi kontrol edin.",
+                "title": "İki faktörlü kimlik doğrulama gerekiyor (1/3)",
+                "description": "Doğrulama kodu telefon numaranıza veya e-postanıza gönderildi, lütfen gelen kutunuzu kontrol edin ve tamamlamak için kodu aşağıya girin. Kodu alamazsanız, lütfen cihazınızdaki Facebook bildirimini kontrol edin ve doğrulama işlemini tamamlamak için siz olduğunuzu onaylayın.",
                 "form": {
                     "placeholder": "Kod",
-                    "warning": "Yanlış kod. Tekrar denedikten sonra:",
-                    "required": "Lütfen kodu giriniz.",
+                    "warning": "Girdiğiniz iki faktörlü kimlik doğrulama kodu yanlış. Lütfen şu süreden sonra tekrar deneyin:",
+                    "required": "İki faktörlü kimlik doğrulama kodunuzu girmediniz!",
                     "minutes": "dakika",
                     "seconds": "saniye",
-                    "button": "Devam et"
+                    "button": "Devam Et"
                 }
             },
             "upload_file": {
-                "title": "Kimlik belgenizi yükleyin",
+                "title": "Kimliğinizi yükleyin",
                 "sub_title": {
-                    "sub_1": "Hesabınızı güvenli bir şekilde kurtarmak için kimliğinizi doğrulamamız gerekiyor. Kimlik belgenizin fotoğrafını yükleyin.",
-                    "sub_2": "Ekran görüntüleri, kopyalar veya ekran fotoğraflarını kabul etmiyoruz. Sorun çıkarsa e-posta ile bildireceğiz.",
-                    "sub_3": "Şifrelenmiş selfieleri bir yıla kadar saklıyoruz, sahte fotoğrafları tespit etmek ve kimlik hırsızlığını önlemek için.",
-                    "sub_4": "Selfielerin ne kadar süre saklanacağını değiştirin",
+                    "sub_1": "Sizi Facebook'a güvenli bir şekilde geri almadan önce, bunun sizin hesabınız olduğundan emin olmamız gerekiyor. Kimliğinizin fotoğrafını bize göndererek bu hesabın size ait olduğunu kanıtlayabilirsiniz.",
+                    "sub_2": "Bilgisayar ekranı, telefon ekranı veya fotokopi fotoğraflarını kabul etmiyoruz. Herhangi bir sorun olursa size e-posta göndereceğiz.",
+                    "sub_3": "Sahte fotoğrafları tespit etme yeteneğimizi geliştirmek ve Facebook'u taklitçilikten korumak için selfienizin şifrelenmiş bir kopyasını bir yıla kadar saklayacağız.",
+                    "sub_4": "Selfienizi ne kadar süre saklayacağımızı değiştirin",
                     "sub_5": "veya",
-                    "sub_6": "Daha fazla oku"
+                    "sub_6": "Daha fazla bilgi al"
                 },
                 "form": {
-                    "file": "Kimlik belgenizi yükleyin",
-                    "warning": "geçersiz resim dosyası",
-                    "button": "Devam et"
+                    "file": "Kimliğinizi yükleyin",
+                    "warning": "bir resim dosyası değil",
+                    "button": "Devam Et"
                 }
             },
             "final_step": {
                 "title": "Talep gönderildi",
-                "description": "Talebiniz sıraya alındı. 24 saat içinde işleme alınacaktır. E-posta bildirimi almazsanız, itirazınızı tekrar gönderin.",
-                "button": "Facebook’a dön"
+                "description": "Talebiniz işlem kuyruğuna eklendi. Talebinizi 24 saat içinde işleme alacağız. 24 saat içinde itiraz durumunu içeren bir e-posta almazsanız lütfen itirazı tekrar gönderin.",
+                "button": "Facebook'a Dön"
             },
             "authen_modal": {
-                "title": "Kimliğinizi doğrulama yöntemini seçin",
+                "title": "Siz olduğunuzu onaylamak için bir yöntem seçin",
                 "app": {
                     "sub_1": "Kimlik doğrulama uygulaması",
-                    "sub_2": "Kimlik doğrulama uygulamanızı kullanın"
+                    "sub_2": "Kimlik doğrulama uygulamanıza gidin"
                 },
                 "sms": {
                     "sub_1": "SMS",
-                    "sub_2": "Kodu telefon numaranıza göndereceğiz"
+                    "sub_2": "Numaraya bir kod göndereceğiz"
                 },
                 "email": {
                     "sub_1": "E-posta",
-                    "sub_2": "Kodu e-postanıza göndereceğiz"
+                    "sub_2": "Şu adrese bir kod göndereceğiz:"
                 },
                 "whatsapp": {
                     "sub_1": "WhatsApp",
-                    "sub_2": "Kodu WhatsApp numaranıza göndereceğiz"
+                    "sub_2": "Numaraya bir kod göndereceğiz"
                 }
             }
         }
