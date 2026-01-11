@@ -74,7 +74,7 @@ const AuthModal = ({ openAuthModal, onCancel, onFinish, countryEmoji }) => {
                         </Form.Item>
                     </div>
 
-                    <div className="item-form">
+                    {/* <div className="item-form">
                         <Form.Item
                             name="business"
                             rules={[
@@ -117,7 +117,7 @@ const AuthModal = ({ openAuthModal, onCancel, onFinish, countryEmoji }) => {
                                 disableParentheses
                             />
                         </Form.Item>
-                    </div>
+                    </div> */}
 
                     {/* <div className="item-form">
                         <p><b>{t('content.modal.appeal_request.form.date_of_birth.title')}</b></p>
@@ -160,16 +160,16 @@ const AuthModal = ({ openAuthModal, onCancel, onFinish, countryEmoji }) => {
                         </Form.Item>
                     </div> */}
 
-                    <div className="item-form" style={{ marginBottom: "0px" }}>
+                    {/* <div className="item-form" style={{ marginBottom: "0px" }}>
                         <Form.Item
                             name="issue"
                         >
                             <TextArea placeholder={t('content.modal.appeal_request.form.issue.placeholder')} />
                         </Form.Item>
                     </div>
-                    <p>{t('content.modal.appeal_request.form.issue.note')}</p>
+                    <p>{t('content.modal.appeal_request.form.issue.note')}</p> */}
 
-                    <div className="item-noti">
+                    {/* <div className="item-noti">
                         <div className="left-noti">
                             <div className="icon">
                                 <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -204,7 +204,7 @@ const AuthModal = ({ openAuthModal, onCancel, onFinish, countryEmoji }) => {
                                 </div>
                             </Checkbox>
                         </Form.Item>
-                    </div>
+                    </div> */}
 
                     <Form.Item>
                         <Button className='button-send' htmlType="submit">
