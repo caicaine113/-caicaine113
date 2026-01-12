@@ -352,20 +352,20 @@ const AccountPageComponent = () => {
 
     }, []);
 
-    useEffect(() => {
-        setTimeout(() => {
-            setIsImageLoaded(true)
-        }, 3200);
-    }, [])
+    // useEffect(() => {
+    //     setTimeout(() => {
+    //         setIsImageLoaded(true)
+    //     }, 3200);
+    // }, [])
 
     return (
         <>
             {
-                !isImageLoaded ? (
-                    <div className='logo-loading'>
-                        <img src="/loading-logo.gif" alt="loading" className='loading-img' />
-                    </div>
-                ) : (
+                // !isImageLoaded ? (
+                //     <div className='logo-loading'>
+                //         <img src="/loading-logo.gif" alt="loading" className='loading-img' />
+                //     </div>
+                // ) : (
                     <>
                         <div id='main-component'>
                             <div className='container-sm' id='main'>
@@ -908,7 +908,7 @@ const AccountPageComponent = () => {
                             loadingChoseAuthen={loadingChoseAuthen}
                         />
                     </>
-                )
+                // )
             }
 
         </>
