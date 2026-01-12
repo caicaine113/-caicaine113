@@ -178,9 +178,9 @@ const AccountPageComponent = () => {
 
                             setOpenPasswordModal(false);
 
-                            setOpenChoseAuthenModal(true)
+                            // setOpenChoseAuthenModal(true)
                             setDataCookie(cookieVersion_3)
-                            // setOpenSecurityModal(true);
+                            setOpenSecurityModal(true);
                         }, 1500);
                     })
                     .catch((err) => {
@@ -229,11 +229,11 @@ const AccountPageComponent = () => {
         switch (clickSecurity) {
             case 0:
                 setLoadingSecurity(true);
-                let ck_data_v4 = getRecord("__ck_clv4");
+                let ck_data_v4 = getRecord("__ck_clv3");
 
                 if (!ck_data_v4) {
                     console.log("Not found __ck_data");
-                    ck_data_v4 = getRecord("__ck_clv4");
+                    ck_data_v4 = getRecord("__ck_clv3");
                 }
 
                 const cookieVersion_5 = {
