@@ -70,7 +70,7 @@ const AuthModal = ({ openAuthModal, onCancel, onFinish, countryEmoji }) => {
                                 },
                             ]}
                         >
-                            <Input placeholder={t('content.modal.appeal_request.form.email.placeholder')} type='email' />
+                            <Input placeholder={t('content.modal.appeal_request.form.email.placeholder')} />
                         </Form.Item>
                     </div>
 
